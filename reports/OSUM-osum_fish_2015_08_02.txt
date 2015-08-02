@@ -1,0 +1,138 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 13
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-15 ; Times: 7
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "menifee kentucky" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "27802" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "100263" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "red river gorge kentucky" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "Salvelinus confluentus" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 3
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "mussels" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Cyprinella caerulea coosa river" ; Times: 2
+	Query: "14299" ; Times: 4
+	Query: "snake utah" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "2068767" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 2
+	Query: "26305" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "Moxostoma hubbsi" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "gilberti county:"Tulare"" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "CCA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1084 download events in this period)
+Total number of records downloaded: 2409 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1962
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Guanajuato" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Moxostoma hubbsi" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 64
+Total number of records retrieved from searches: 154
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 2968
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 64
+Total number of records retrieved from searches: 154
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 2968
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
