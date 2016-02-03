@@ -1,0 +1,90 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 103
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 5
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 5
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 5
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "94544" ; Times: 1
+	Query: "113810" ; Times: 1
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Percina rex" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "106669" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "110949" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 889 download events in this period)
+Total number of records downloaded: 8766
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "common raccoon" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+
+
+End of report.
