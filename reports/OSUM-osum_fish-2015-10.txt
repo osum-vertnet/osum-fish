@@ -1,0 +1,98 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "phytoplankton" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 823 download events in this period)
+Total number of records downloaded: 611
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Chile ; Times: 3
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Amboy" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+
+
+End of report.
