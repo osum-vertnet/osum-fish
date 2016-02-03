@@ -1,0 +1,122 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 6
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 48
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-02 ; Times: 27
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "lake of bays" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma mappable:1 tissue:1" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 6
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "derryberry" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "Percina maculata stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Oppossum" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma tissue:1" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "C. asprella" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1045 download events in this period)
+Total number of records downloaded: 3578
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Necturus" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Etheostoma tallapoosae" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "osum birds" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+
+
+End of report.
