@@ -1,0 +1,62 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Forbesichthys agassizii" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "Percina williamsi" ; Times: 1
+	Query: "Noturus flavipinnis (Virginia)" ; Times: 1
+	Query: "Etheostoma percnurum" ; Times: 1
+	Query: "parachromis" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 2
+	Query: "29992" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 230 download events in this period)
+Total number of records downloaded: 434
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "killdeer" ; Times: 1
+	Query: "tissue" ; Times: 33
+
+
+End of report.
