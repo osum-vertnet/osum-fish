@@ -1,0 +1,181 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 387
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 40
+	Country: United States ; Times: 39
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 10
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 30
+	Date: 2016-04-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "21026" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "57321" ; Times: 1
+	Query: "M. Daily" ; Times: 1
+	Query: "Gasterosteus Ontario" ; Times: 2
+	Query: "108467" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "24556" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "Myoxocephalus thompsonii Ontario" ; Times: 10
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "Acipenser fulvescens Ontario" ; Times: 20
+	Query: "elf" ; Times: 20
+	Query: "28423" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "21952" ; Times: 1
+	Query: "hellbender" ; Times: 3
+	Query: "57993" ; Times: 1
+	Query: "pennsylvania bennett" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "N. Gale" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Ichthyomyzon unicuspis Ontario" ; Times: 10
+	Query: "58425" ; Times: 1
+	Query: "county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "catalognumber:13194 institutioncode:OSUM" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "Gasterosteus aculeatus Ontario" ; Times: 3
+	Query: "87674" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:104238" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1312 download events in this period)
+Total number of records downloaded: 13038
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Panama ; Times: 80
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 22
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 5
+	Date: 2016-04-22 ; Times: 40
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "BELONIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "carcharhinidae" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "ARIIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "SERRANIDAE" ; Times: 1
+
+
+End of report.
