@@ -1,0 +1,77 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-29 ; Times: 5
+	Date: 2016-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "Ictalurus punctatus mappable:1 tissue:1" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Taylors Bridge" ; Times: 3
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Low Belmont" ; Times: 1
+	Query: "206986" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 327 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+
+
+End of report.
