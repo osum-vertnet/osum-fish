@@ -1,0 +1,156 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 22358
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 220
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 146
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-05 ; Times: 5
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 20
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-02 ; Times: 40
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "99393" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Breckinridge" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Hellbender" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "J. W. Miller institutioncode:OSUM" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "73277" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 4
+	Query: "26378" ; Times: 1
+	Query: "davenport pond pickaway ohio" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "77593" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Flavescens illinois" ; Times: 4
+	Query: "67447" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "hellbender" ; Times: 4
+	Query: "208320" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 3
+	Query: "99609" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 75
+	Query: "OSUM 1626" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "208318" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "38590" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "davenport pond" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 7
+	Query: "204047" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "108985" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "103398" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1052 download events in this period)
+Total number of records downloaded: 266
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
