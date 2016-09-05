@@ -1,0 +1,173 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 37978
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 254
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-16 ; Times: 104
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 17
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 38
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 78
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "34126" ; Times: 1
+	Query: "class:actinopterygii locality:new hampshire" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "scientificname:Ambloplites constellatus country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "scientificname:Acantharchus pomotis country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Enneacanthus chaetodon country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "54750" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "scientificname:Lepomis punctatus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 7
+	Query: "Pteronotropis hubbsi" ; Times: 1
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 5
+	Query: "scientificname:Lepomis peltastes country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Alosa alabamae country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Lepomis humilis country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Micropterus coosae country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 2
+	Query: "scientificname:Lepomis auritus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 2
+	Query: "scientificname:Micropterus dolomieu country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Lepomis gibbosus country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Amia calva country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Ambloplites rupestris country:United States mappable:1" ; Times: 5
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 1
+	Query: "scientificname:Ictalurus punctatus country:United States mappable:1" ; Times: 5
+	Query: "scientificname:Micropterus punctulatus country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "scientificname:Alosa sapidissima country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 5
+	Query: "pigeon lake ontario" ; Times: 1
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 2
+	Query: "scientificname:Ameiurus nebulosus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "scientificname:Sander vitreus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:apodus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 2
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "scientificname:Centrarchus macropterus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 30
+	Query: "Heterodon stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "scientificname:Alosa aestivalis country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 1
+	Query: "scientificname:Ameiurus catus country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Ictalurus furcatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 4
+	Query: "scientificname:Morone saxatilis country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 1
+	Query: "scientificname:Lepomis marginatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 1
+	Query: "scientificname:Ameiurus natalis country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:vetulus genus:Parophrys" ; Times: 1
+	Query: "scientificname:Ameiurus melas country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Archoplites interruptus country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Lepomis miniatus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 1
+	Query: "scientificname:Perca flavescens country:United States mappable:1" ; Times: 4
+	Query: "Ameca splendens" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "scientificname:Sander canadensis country:United States mappable:1" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 10
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "scientificname:Lota lota country:United States mappable:1" ; Times: 9
+	Query: "92074" ; Times: 1
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 9
+	Query: "scientificname:Morone chrysops country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 1
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:affinis genus:Syngnathus" ; Times: 1
+	Query: "scientificname:Enneacanthus obesus country:United States mappable:1" ; Times: 3
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 3
+	Query: "rumex" ; Times: 1
+	Query: "scientificname:Alosa pseudoharengus country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Pomoxis nigromaculatus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:curema genus:Mugil" ; Times: 1
+	Query: "scientificname:Aphredoderus sayanus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis symmetricus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "scientificname:Enneacanthus gloriosus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Alosa chrysochloris country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Morone americana country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Morone mississippiensis country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 924 download events in this period)
+Total number of records downloaded: 780
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Black Rock Spring" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+
+
+End of report.
