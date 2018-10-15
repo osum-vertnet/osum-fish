@@ -1,0 +1,225 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 386
+Number of records retrieved in searches: 10284
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 155
+	Country: United States ; Times: 147
+	Country: Mexico ; Times: 68
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 9
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 16
+	Date: 2018-01-10 ; Times: 15
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-17 ; Times: 73
+	Date: 2018-01-16 ; Times: 7
+	Date: 2018-01-24 ; Times: 25
+	Date: 2018-01-25 ; Times: 20
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-09 ; Times: 11
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 16
+	Date: 2018-01-03 ; Times: 21
+	Date: 2018-01-26 ; Times: 20
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-04 ; Times: 8
+	Date: 2018-01-05 ; Times: 21
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-23 ; Times: 96
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.9847956976,-80.7616277378601))&lt;18440" ; Times: 5
+	Query: "&#34;zebra mussel&#34; hastissue:1" ; Times: 3
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 8
+	Query: "distance(location,geopoint(38.770934581,-82.181686241))&lt;20875" ; Times: 4
+	Query: "distance(location,geopoint(39.5676101492855,-74.2803369225))&lt;7020" ; Times: 4
+	Query: "county:&#34;Wood&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "Girardinichthys multiradiatus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "allen county ohio" ; Times: 1
+	Query: "distance(location,geopoint(39.3046985515001,-81.4958979025))&lt;23581" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "202688" ; Times: 1
+	Query: "genus:lota hastissue:1" ; Times: 5
+	Query: "51835" ; Times: 1
+	Query: "distance(location,geopoint(39.1966014139285,-74.7902138655))&lt;3667" ; Times: 4
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.6560133821425,-74.2617629808335))&lt;7454" ; Times: 4
+	Query: "Myoxocephalus thompsonii mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarki lewisi" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 2
+	Query: "distance(location,geopoint(41.6832245335001,-79.9706774))&lt;14151" ; Times: 3
+	Query: "95638" ; Times: 1
+	Query: "&#34;Salvelinus confluentus&#34; hastissue:1" ; Times: 3
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "Oncorhynchus clarki lewisi hastissue:1" ; Times: 1
+	Query: "Ariopsis assimilis" ; Times: 2
+	Query: "distance(location,geopoint(39.150059549214,-74.8029851795))&lt;4520" ; Times: 2
+	Query: "Gambusia sexradiata" ; Times: 2
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 2
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "scientificname:(Cottus hypselurus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;white bass&#34; hastissue:1" ; Times: 1
+	Query: "Eugerres plumieri" ; Times: 2
+	Query: "distance(location,geopoint(39.4019414014,-81.2005231929548))&lt;1622" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "&#34;lota lota&#34; hastissue:1" ; Times: 3
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "distance(location,geopoint(39.5597220419285,-74.4298766745))&lt;6235" ; Times: 4
+	Query: "76908" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "Eleotris amblyopsis" ; Times: 2
+	Query: "77136" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Thorichthys meeki" ; Times: 2
+	Query: "r-87617" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 2
+	Query: "&#34;Salvelinus malma&#34; hastissue:1" ; Times: 6
+	Query: "Cichlasoma urophthalmum" ; Times: 2
+	Query: "24880" ; Times: 1
+	Query: "scientificname:(Catostomus tahoensis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "distance(location,geopoint(39.4792069164285,-74.4145070556665))&lt;7952" ; Times: 4
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.027031547,-72.14464222925))&lt;17187" ; Times: 2
+	Query: "91908" ; Times: 1
+	Query: "Bull trout hastissue:1" ; Times: 1
+	Query: "&#34;Morone chrysops&#34; hastissue:1" ; Times: 27
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "&#34;Salvelinus alpinus&#34; hastissue:1" ; Times: 3
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Petenia splendida" ; Times: 2
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "distance(location,geopoint(43.0529880055,-72.52838754025))&lt;24385" ; Times: 2
+	Query: "Parachromis managuensis" ; Times: 2
+	Query: "Chromis enchrysurus" ; Times: 1
+	Query: "&#34;Couesius plumbeus&#34; hastissue:1" ; Times: 1
+	Query: "scientificname:(Notropis topeka) country:United States mappable:1" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "scientificname:(Ptychocheilus oregonensis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 4
+	Query: "hybopsis dissimilis" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Oncorhynchus clarkii hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.839271747,-71.6058302245))&lt;20600" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 2
+	Query: "24291" ; Times: 1
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "21220" ; Times: 1
+	Query: "distance(location,geopoint(39.839311967643,-74.1634654098335))&lt;5050" ; Times: 4
+	Query: "V-1689" ; Times: 1
+	Query: "opposum" ; Times: 2
+	Query: "channa marulius" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "scientificname:(Hybognathus placitus) country:United States mappable:1" ; Times: 1
+	Query: "Theraps intermedius" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Brycon guatemalensis" ; Times: 2
+	Query: "Mugil curema" ; Times: 2
+	Query: "&#34;zebra mussel&#34;" ; Times: 3
+	Query: "17892" ; Times: 1
+	Query: "scientificname:(Gila robusta) country:United States mappable:1" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "84111" ; Times: 1
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "&#34;clinostomus funduloides&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Acipenser transmontanus&#34; hastissue:1" ; Times: 2
+	Query: "89962" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 2
+	Query: "opposum mappable:1" ; Times: 3
+	Query: "Poecilia mexicana" ; Times: 2
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "(&#34;14-C&#34;)" ; Times: 1
+	Query: "distance(location,geopoint(38.678481329,-83.5220707184999))&lt;7072" ; Times: 4
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "&#34;Zebra mussel&#34; hastissue:1" ; Times: 1
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "29233" ; Times: 3
+	Query: "Aplodinotus grunniens" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 2
+	Query: "oppossum" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 2
+	Query: "&#34;Lota lota&#34; hastissue:1" ; Times: 3
+	Query: "&#34;Salvelinus namaycush&#34; hastissue:1" ; Times: 3
+	Query: "(bigfoot) mappable:1" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "Rhamdia laticauda" ; Times: 2
+	Query: "201193" ; Times: 1
+	Query: "Eva Lake" ; Times: 1
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:gibelio hastissue:1" ; Times: 2
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 2
+	Query: "Carassius gibelio hastissue:1" ; Times: 1
+	Query: "&#34;morone chrysops&#34; hastissue:1" ; Times: 1
+	Query: "Chromis enchrysura" ; Times: 1
+	Query: "distance(location,geopoint(39.4838018115592,-74.3067625259008))&lt;5333" ; Times: 3
+	Query: "&#34;Catostomus commersonii&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(39.844175286643,-74.2119885988335))&lt;3883" ; Times: 4
+	Query: "petenia splendida" ; Times: 1
+	Query: "distance(location,geopoint(39.6668591212349,-74.1740560322299))&lt;4172" ; Times: 4
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:confluentus hastissue:1" ; Times: 81
+	Query: "distance(location,geopoint(38.9403846835001,-81.8482666325))&lt;9960" ; Times: 4
+	Query: "Chromis enchrysurus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1398 download events in this period)
+Total number of records downloaded: 2143
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;Putnam&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Nyc" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+
+
+End of report.
