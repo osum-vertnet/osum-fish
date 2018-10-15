@@ -1,0 +1,180 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 7469
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 58
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 232
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 9
+	Date: 2018-02-19 ; Times: 7
+	Date: 2018-02-06 ; Times: 132
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 59
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-27 ; Times: 43
+	Date: 2018-02-07 ; Times: 15
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 4
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 4
+	Query: "Acanthurus randalli" ; Times: 1
+	Query: "family:Cichlidae country:&#34;Belize&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Acanthurus randalli mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.4772843065001,-83.072999902))&lt;1325" ; Times: 4
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 4
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "recordedby:bohne" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 4
+	Query: "114041" ; Times: 1
+	Query: "distance(location,geopoint(44.0205308500001,-83.4492345135))&lt;2766" ; Times: 4
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 4
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 4
+	Query: "distance(location,geopoint(44.472461768,-96.259428062))&lt;22713" ; Times: 4
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 4
+	Query: "specificepithet:COLLIEI genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "cro" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "&#34;esox niger&#34; hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "(19137)" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 4
+	Query: "recordedby:j. e. wallace" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 4
+	Query: "108688" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "preparations:skeleton institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 4
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 31
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "distance(location,geopoint(43.6212740058635,-95.2482103224999))&lt;15916" ; Times: 4
+	Query: "114020" ; Times: 1
+	Query: "distance(location,geopoint(41.774028974,-83.4546828674999))&lt;3374" ; Times: 4
+	Query: "hellbender" ; Times: 2
+	Query: "B-1357" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 4
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 4
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "54553" ; Times: 1
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 4
+	Query: "63298" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 4
+	Query: "distance(location,geopoint(43.4354155745,-87.8734533689999))&lt;12687" ; Times: 4
+	Query: "&#34;esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "79588" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 4
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(41.595967012,-83.0883267585629))&lt;2417" ; Times: 4
+	Query: "specificepithet:cirratum genus:Ginglymostoma hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.8004086755001,-95.0160474075))&lt;38370" ; Times: 4
+	Query: "distance(location,geopoint(41.829702842,-83.4164260875))&lt;1308" ; Times: 4
+	Query: "(ott)" ; Times: 1
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 4
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "distance(location,geopoint(41.6895936360001,-83.3180222109999))&lt;3688" ; Times: 4
+	Query: "distance(location,geopoint(41.6026794355,-83.2074496195))&lt;4660" ; Times: 4
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "distance(location,geopoint(41.9735366987145,-83.2602656133335))&lt;2049" ; Times: 4
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 4
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 4
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "distance(location,geopoint(41.525447615,-82.9237379591665))&lt;5634" ; Times: 4
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "institutioncode:OSUM pseudomys" ; Times: 1
+	Query: "distance(location,geopoint(41.519964003,-83.0085274456665))&lt;1840" ; Times: 4
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 4
+	Query: "46181" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "distance(location,geopoint(44.1197688840001,-84.9460193675))&lt;6246" ; Times: 4
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "&#34;Coregonus clupeaformis&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 4
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 4
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1892 download events in this period)
+Total number of records downloaded: 2845
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+
+
+End of report.
