@@ -1,0 +1,176 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 767
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: France ; Times: 16
+	Country: United States ; Times: 62
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-11 ; Times: 30
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-26 ; Times: 8
+	Date: 2017-12-24 ; Times: 12
+	Date: 2017-12-23 ; Times: 8
+	Date: 2017-12-21 ; Times: 3
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 10
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-07 ; Times: 5
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Xiphophorus variatus&#34;" ; Times: 1
+	Query: "umbra limi" ; Times: 1
+	Query: "Coregonus artedi mappable:1" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Platichthys flesus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.1966014139285,-74.7902138655))&lt;3667" ; Times: 1
+	Query: "Myoxocephalus thompsonii mappable:1" ; Times: 1
+	Query: "catalognumber:108419 institutioncode:OSUM" ; Times: 1
+	Query: "Pollachius pollachius mappable:1" ; Times: 1
+	Query: "Enchelyopus cimbrius mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Ariopsis assimilis" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Gambusia sexradiata" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "97811" ; Times: 1
+	Query: "Eugerres plumieri" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "genus:Neogobius country:&#34;united states&#34;" ; Times: 1
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "Limanda limanda mappable:1" ; Times: 1
+	Query: "Eleotris amblyopsis" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Thorichthys meeki" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "Brycon guatemalensis" ; Times: 1
+	Query: "Cichlasoma urophthalmum" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "racoon" ; Times: 3
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "Minnesota Loon" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "mudpuppies" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 1
+	Query: "Chromis enchrysurus" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "distance(location,geopoint(44.839271747,-71.6058302245))&lt;20600" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "cussewago creek" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "Fundulus euryzonus" ; Times: 2
+	Query: "Theraps intermedius" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Centropristis striata mappable:1" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 1
+	Query: "Scomber scombrus mappable:1" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.839311967643,-74.1634654098335))&lt;5050" ; Times: 1
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "Alosa pseudoharengus mappable:1" ; Times: 2
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 1
+	Query: "206666" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Rhamdia laticauda" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "&#34;Thorichthys meeki&#34;" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 2
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "Chromis enchrysura" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "distance(location,geopoint(39.844175286643,-74.2119885988335))&lt;3883" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "Chromis enchrysurus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 674 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "notropis bifrenatus" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+	Query: "cussewago creek" ; Times: 1
+
+
+End of report.
