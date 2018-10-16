@@ -1,0 +1,215 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 6708
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 225
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 12
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-24 ; Times: 21
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 47
+	Date: 2018-05-04 ; Times: 6
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 13
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 14
+	Date: 2018-05-14 ; Times: 16
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 51
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 2
+	Query: "distance(location,geopoint(42.186861331453,-83.2637674419093))&lt;7232" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "lack 65" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "distance(location,geopoint(41.4772843065001,-83.072999902))&lt;1325" ; Times: 2
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 2
+	Query: "distance(location,geopoint(43.8543634933962,-89.6340951347761))&lt;15090" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "scientificname:(Elassoma alabamae) country:United States mappable:1" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 2
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.0205308500001,-83.4492345135))&lt;2766" ; Times: 2
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 2
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 2
+	Query: "distance(location,geopoint(44.472461768,-96.259428062))&lt;22713" ; Times: 2
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 2
+	Query: "distance(location,geopoint(41.7047640446795,-83.4943629612749))&lt;9603" ; Times: 1
+	Query: "scientificname:(Moxostoma breviceps OR Moxostoma macrolepidotum breviceps) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "distance(location,geopoint(44.8522699776495,-94.6814797181228))&lt;19068" ; Times: 2
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 2
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(44.9559829343395,-94.6846926110079))&lt;14415" ; Times: 2
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "distance(location,geopoint(41.6895936360001,-83.3180222109999))&lt;3688" ; Times: 2
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "distance(location,geopoint(41.9940224167435,-83.1227255470084))&lt;8669" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "distance(location,geopoint(44.9041264559945,-94.6905836447474))&lt;18015" ; Times: 2
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "distance(location,geopoint(43.6212740058635,-95.2482103224999))&lt;15916" ; Times: 2
+	Query: "distance(location,geopoint(41.774028974,-83.4546828674999))&lt;3374" ; Times: 2
+	Query: "distance(location,geopoint(41.7078860958142,-83.3578756490433))&lt;6050" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "mudpuppy" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "distance(location,geopoint(41.6895803924308,-83.3180392822581))&lt;17827" ; Times: 2
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 2
+	Query: "scientificname:(Acipenser oxyrinchus OR Acipenser oxyrynchus OR Acipenser oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "distance(location,geopoint(47.3672678674276,-96.2767124315031))&lt;29148" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 2
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(42.8002793255845,-89.2324399002682))&lt;9143" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "distance(location,geopoint(43.4354155745,-87.8734533689999))&lt;12687" ; Times: 2
+	Query: "distance(location,geopoint(44.1197688840001,-84.9460193675))&lt;6246" ; Times: 2
+	Query: "107218" ; Times: 1
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 2
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(45.2418073976384,-96.3615879541276))&lt;21471" ; Times: 2
+	Query: "distance(location,geopoint(41.595967012,-83.0883267585629))&lt;2417" ; Times: 2
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "distance(location,geopoint(44.8004086755001,-95.0160474075))&lt;38370" ; Times: 2
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 3
+	Query: "distance(location,geopoint(41.829702842,-83.4164260875))&lt;1308" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 2
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.6026794355,-83.2074496195))&lt;4660" ; Times: 2
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "distance(location,geopoint(41.801183502034,-83.495470173121))&lt;9669" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 2
+	Query: "genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "distance(location,geopoint(41.525447615,-82.9237379591665))&lt;5634" ; Times: 2
+	Query: "distance(location,geopoint(41.801183502034,-83.3136262636917))&lt;8867" ; Times: 1
+	Query: "distance(location,geopoint(44.800413499304,-94.6725034888335))&lt;19486" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "distance(location,geopoint(37.248560757269,-93.6952372778328))&lt;11263" ; Times: 3
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(41.519964003,-83.0085274456665))&lt;1840" ; Times: 2
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "distance(location,geopoint(38.8259859740737,-92.504553279826))&lt;12653" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "distance(location,geopoint(42.8002794435356,-89.3936346195526))&lt;7410" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "scientificname:(Oncorhynchus mykiss gilberti) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.9735366987145,-83.2602656133335))&lt;2049" ; Times: 2
+	Query: "distance(location,geopoint(37.161975188785,-93.6952926072649))&lt;11285" ; Times: 2
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 2
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "distance(location,geopoint(39.2687332665436,-90.7884712327553))&lt;17866" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1178 download events in this period)
+Total number of records downloaded: 3575
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "morone americana" ; Times: 1
+	Query: "percina" ; Times: 1
+
+
+End of report.
