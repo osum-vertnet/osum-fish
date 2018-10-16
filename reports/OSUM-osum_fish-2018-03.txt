@@ -1,0 +1,313 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 806
+Number of records retrieved in searches: 22026
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 762
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 9
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-28 ; Times: 18
+	Date: 2018-03-29 ; Times: 9
+	Date: 2018-03-16 ; Times: 4
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-12 ; Times: 4
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 80
+	Date: 2018-03-03 ; Times: 13
+	Date: 2018-03-04 ; Times: 8
+	Date: 2018-03-05 ; Times: 55
+	Date: 2018-03-06 ; Times: 86
+	Date: 2018-03-07 ; Times: 23
+	Date: 2018-03-26 ; Times: 184
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 10
+	Date: 2018-03-23 ; Times: 31
+	Date: 2018-03-20 ; Times: 48
+	Date: 2018-03-21 ; Times: 60
+	Date: 2018-03-27 ; Times: 153
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 9
+	Query: "genus:Hiodon specificepithet:alosoides" ; Times: 5
+	Query: "genus:Notropis specificepithet:boops" ; Times: 6
+	Query: "genus:Phenacobius specificepithet:mirabilis" ; Times: 2
+	Query: "genus:Luxilus specificepithet:coccogenis" ; Times: 2
+	Query: "specificepithet:miurus genus:noturus" ; Times: 1
+	Query: "genus:Lavinia specificepithet:exilicauda" ; Times: 5
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 6
+	Query: "genus:Cyprinella specificepithet:camura" ; Times: 6
+	Query: "genus:Rhacochilus specificepithet:vacca" ; Times: 5
+	Query: "105820" ; Times: 1
+	Query: "genus:Notropis specificepithet:bifrenatus" ; Times: 6
+	Query: "genus:Algansea specificepithet:tincella" ; Times: 5
+	Query: "B 1482" ; Times: 1
+	Query: "genus:Myoxocephalus specificepithet:scorpius" ; Times: 2
+	Query: "genus:Mylocheilus specificepithet:caurinus" ; Times: 5
+	Query: "genus:Lythrurus specificepithet:ardens" ; Times: 2
+	Query: "genus:Gila specificepithet:minacae" ; Times: 6
+	Query: "genus:Cyprinella specificepithet:whipplei" ; Times: 6
+	Query: "hellbender french" ; Times: 1
+	Query: "91774" ; Times: 2
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Notropis specificepithet:nubilus" ; Times: 6
+	Query: "genus:Notropis specificepithet:greenei" ; Times: 6
+	Query: "genus:Cyprinella  specificepithet:zanema" ; Times: 3
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "genus:Erimystax specificepithet:dissimilis" ; Times: 5
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 9
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "genus:Nocomis specificepithet:biguttatus" ; Times: 5
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "genus:Exoglossum specificepithet:laurae" ; Times: 5
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;ohio&#34;" ; Times: 12
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Nocomis specificepithet:micropogon" ; Times: 2
+	Query: "genus:Notropis specificepithet:atrocaudalis" ; Times: 6
+	Query: "52261" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:chloristia" ; Times: 1
+	Query: "genus:Gila specificepithet:atraria" ; Times: 6
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 5
+	Query: "16577" ; Times: 1
+	Query: "genus:Notropis specificepithet:potteri" ; Times: 2
+	Query: "genus:Macrhybopsis specificepithet:gelida" ; Times: 5
+	Query: "62969" ; Times: 1
+	Query: "noturus elegans" ; Times: 1
+	Query: "genus:Notropis specificepithet:spectrunculus" ; Times: 2
+	Query: "Belonesox belizanus 1" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:callitaenia" ; Times: 2
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Percopsis specificepithet:omiscomaycus" ; Times: 5
+	Query: "genus:Cyprinella specificepithet:galactura" ; Times: 2
+	Query: "genus:Notropis specificepithet:girardi" ; Times: 6
+	Query: "genus:Elops specificepithet:saurus" ; Times: 2
+	Query: "genus:Chrosomus specificepithet:erythrogaster" ; Times: 6
+	Query: "genus:Mylopharodon specificepithet:conocephalus" ; Times: 5
+	Query: "genus:Notropis specificepithet:heterodon" ; Times: 6
+	Query: "genus:Notropis specificepithet:chrosomus" ; Times: 2
+	Query: "genus:Notropis specificepithet:photogenis" ; Times: 6
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 9
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 5
+	Query: "genus:Luxilus specificepithet:pilsbryi" ; Times: 5
+	Query: "genus:Cyprinella specificepithet:labrosa" ; Times: 6
+	Query: "genus:Myoxocephalus specificepithet:thompsonii" ; Times: 5
+	Query: "genus:Notropis specificepithet:sabinae" ; Times: 2
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "genus:Acrocheilus specificepithet:alutaceus" ; Times: 5
+	Query: "genus:Hysterocarpus specificepithet:traskii" ; Times: 5
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 6
+	Query: "genus:Gila specificepithet:coerulea " ; Times: 2
+	Query: "specificepithet:erythrogaster genus:Chrosomus county:&#34;butler&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:Noturus specificepithet:nocturnus" ; Times: 2
+	Query: "genus:Clarias specificepithet:batrachus" ; Times: 5
+	Query: "genus:Macrhybopsis specificepithet:australis" ; Times: 5
+	Query: "genus:Semotilus specificepithet:thoreauianus" ; Times: 2
+	Query: "35919" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:umbra stateprovince:&#34;ohio&#34;" ; Times: 8
+	Query: "Novumbra hubbsi" ; Times: 1
+	Query: "genus:Cyprinella specificepithet:monacha" ; Times: 6
+	Query: "93526" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 9
+	Query: "genus:Notropis specificepithet:ortenburgeri" ; Times: 6
+	Query: "specificepithet:variatum genus:etheostoma stateprovince:&#34;ohio&#34; distance(location,geopoint(39.50815184264947,-84.144287109375))&lt;100000" ; Times: 1
+	Query: "genus:Notropis specificepithet:amabilis" ; Times: 2
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "genus:Richardsonius specificepithet:egregius" ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:maculatus" ; Times: 2
+	Query: "genus:Forbesichthys specificepithet:agassizii" ; Times: 5
+	Query: "genus:Luxilus specificepithet:cornutus" ; Times: 2
+	Query: "genus:Campostoma specificepithet:ornatum" ; Times: 5
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 5
+	Query: "genus:Pteronotropis specificepithet:metallicus" ; Times: 8
+	Query: "genus:Notropis  specificepithet:hypsilepis" ; Times: 3
+	Query: "genus:Luxilus specificepithet:chrysocephalus" ; Times: 2
+	Query: "genus:Notropis specificepithet:rubellus" ; Times: 2
+	Query: "percina aurantiaca" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:hankinsoni" ; Times: 5
+	Query: "genus:Notropis specificepithet:leuciodus" ; Times: 6
+	Query: "genus:Gila specificepithet:robusta" ; Times: 5
+	Query: "genus:Campostoma specificepithet:oligolepis" ; Times: 2
+	Query: "genus:Cyprinella specificepithet:nivea" ; Times: 2
+	Query: "genus:Yuriria specificepithet:alta" ; Times: 5
+	Query: "genus:Ameiurus specificepithet:melas" ; Times: 2
+	Query: "90545" ; Times: 1
+	Query: "genus:Ptychocheilus specificepithet:grandis" ; Times: 5
+	Query: "genus:Pygocentrus specificepithet:nattereri" ; Times: 5
+	Query: "101537" ; Times: 2
+	Query: "90543" ; Times: 1
+	Query: "90542" ; Times: 2
+	Query: "genus:Lythrurus specificepithet:matutinus" ; Times: 5
+	Query: "34047" ; Times: 1
+	Query: "genus:Carpiodes specificepithet:cyprinus" ; Times: 5
+	Query: "genus:Notropis specificepithet:scepticus" ; Times: 2
+	Query: "genus:Notropis specificepithet:longirostris" ; Times: 6
+	Query: "elf" ; Times: 4
+	Query: "26861" ; Times: 1
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "genus:Erimystax specificepithet:insignis" ; Times: 5
+	Query: "genus:Notropis specificepithet:rubricroceus " ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "genus:Exoglossum specificepithet:maxillingua" ; Times: 2
+	Query: "genus:Brevoortia specificepithet:tyrannus" ; Times: 2
+	Query: "catalognumber:24417 hastissue:1" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "genus:Noturus specificepithet:flavus" ; Times: 5
+	Query: "genus:Notropis specificepithet:dorsalis" ; Times: 6
+	Query: "genus:Hypophthalmichthys specificepithet:nobilis" ; Times: 5
+	Query: "genus:Leptocottus specificepithet:armatus" ; Times: 2
+	Query: "genus:Parophrys specificepithet:vetulus" ; Times: 2
+	Query: "genus:Cyprinella specificepithet:spiloptera" ; Times: 2
+	Query: "genus:Cyprinella specificepithet:pyrrhomelas " ; Times: 2
+	Query: "xenotoca eiseni" ; Times: 1
+	Query: "genus:Trinectes specificepithet:maculatus" ; Times: 1
+	Query: "genus:Ptychocheilus specificepithet:umpquae" ; Times: 5
+	Query: "genus:Cymatogaster specificepithet:aggregata" ; Times: 2
+	Query: "catalognumber:76325" ; Times: 2
+	Query: "genus:Nocomis specificepithet:effusus" ; Times: 5
+	Query: "genus:Chrosomus specificepithet:eos" ; Times: 6
+	Query: "genus:Oligocottus specificepithet:maculosus" ; Times: 5
+	Query: "genus:Luxilus specificepithet:zonatus" ; Times: 5
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 9
+	Query: "genus:Platygobio specificepithet:gracilis" ; Times: 5
+	Query: "genus:Luxilus specificepithet:albeolus" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:placitus" ; Times: 2
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "genus:Cyprinella  specificepithet:callitaenia" ; Times: 3
+	Query: "genus:Cyprinella specificepithet:zanema" ; Times: 2
+	Query: "genus:Cottus specificepithet:bairdii" ; Times: 3
+	Query: "genus:Notropis specificepithet:anogenus" ; Times: 6
+	Query: "genus:Polypterus specificepithet:senegalus" ; Times: 5
+	Query: "101843" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 9
+	Query: "genus:Lythrurus specificepithet:fasciolaris" ; Times: 5
+	Query: "26996" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "genus:Phenacobius specificepithet:catostomus" ; Times: 2
+	Query: "genus:Luxilus specificepithet:cerasinus" ; Times: 2
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 9
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "specificepithet:salmoides genus:Micropterus hasmass:1" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:testudineus" ; Times: 2
+	Query: "Amatitlania nigrofasciata" ; Times: 3
+	Query: "genus:Rhamdia specificepithet:quelen" ; Times: 5
+	Query: "genus:Alosa specificepithet:pseudoharengus" ; Times: 4
+	Query: "genus:Moxostoma specificepithet:poecilurum" ; Times: 5
+	Query: "genus:Hybognathus specificepithet:regius" ; Times: 2
+	Query: "genus:Chologaster specificepithet:cornuta" ; Times: 5
+	Query: "genus:Embiotoca specificepithet:lateralis" ; Times: 5
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 5
+	Query: "specificepithet:miurus genus:noturus stateprovince:&#34;ohio&#34;" ; Times: 22
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Minytrema specificepithet:melanops" ; Times: 2
+	Query: "genus:Lepisosteus specificepithet:oculatus" ; Times: 2
+	Query: "genus:Margariscus specificepithet:margarita" ; Times: 2
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:pretiosus" ; Times: 5
+	Query: "genus:Notropis specificepithet:ammophilus" ; Times: 2
+	Query: "specificepithet:cragini genus:Etheostoma hastissue:1" ; Times: 1
+	Query: "genus:Enophrys specificepithet:bison" ; Times: 5
+	Query: "26356" ; Times: 1
+	Query: "genus:Artedius specificepithet:fenestralis" ; Times: 5
+	Query: "genus:Cyprinella specificepithet:trichroistia" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:argyritis" ; Times: 5
+	Query: "Salvelinus fontinalis mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 9
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 3
+	Query: "genus:Notropis specificepithet:ariommus" ; Times: 6
+	Query: "genus:Cottus specificepithet:carolinae" ; Times: 4
+	Query: "genus:Hybognathus specificepithet:hayi" ; Times: 2
+	Query: "Osteoglossidae hastissue:1" ; Times: 2
+	Query: "Etheostoma longimanum" ; Times: 3
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Dionda specificepithet:diaboli" ; Times: 5
+	Query: "92774" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "genus:Nocomis specificepithet:asper" ; Times: 5
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 5
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Gila  specificepithet:coerulea " ; Times: 3
+	Query: "genus:Notropis specificepithet:hypsilepis" ; Times: 2
+	Query: "genus:Clinostomus specificepithet:elongatus" ; Times: 5
+	Query: "genus:Macrhybopsis specificepithet:storeriana" ; Times: 4
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "genus:Cyprinella specificepithet:leedsi" ; Times: 6
+	Query: "97501" ; Times: 1
+	Query: "genus:Noturus specificepithet:phaeus" ; Times: 5
+	Query: "90544" ; Times: 1
+	Query: "genus:Pylodictis specificepithet:olivaris" ; Times: 2
+	Query: "genus:Anchoa specificepithet:mitchilli" ; Times: 2
+	Query: "genus:Notropis specificepithet:altipinnis" ; Times: 2
+	Query: "genus:Cottus specificepithet:asper" ; Times: 5
+	Query: "genus:Labidesthes specificepithet:sicculus" ; Times: 2
+	Query: "genus:Notropis specificepithet:scabriceps" ; Times: 6
+	Query: "genus:sander stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:Alosa specificepithet:aestivalis" ; Times: 2
+	Query: "chrosomus erythrogaster" ; Times: 4
+	Query: "genus:Carpiodes specificepithet:carpio" ; Times: 2
+	Query: "specificepithet:atripinne genus:etheostoma stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:Pteronotropis specificepithet:welaka" ; Times: 8
+	Query: "Chapalichthys pardalis" ; Times: 1
+	Query: "genus:Lythrurus specificepithet:fumeus" ; Times: 5
+	Query: "specificepithet:variatum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "genus:Culaea stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "genus:Notropis hasmass:1" ; Times: 1
+	Query: "catalognumber:38102 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1284 download events in this period)
+Total number of records downloaded: 2724
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Palmaris genus:Percina stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Etheostoma year &gt;= 2010 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "artedius fenestralis" ; Times: 1
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+
+
+End of report.
