@@ -1,0 +1,149 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 4019
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 176
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 9
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 7
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 28
+	Date: 2018-08-20 ; Times: 113
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-01 ; Times: 11
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salvelinus malma vntype:specimen specificepithet:malma genus:Salvelinus hastissue:1" ; Times: 2
+	Query: "82879" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "field musuem" ; Times: 1
+	Query: "gammarus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "26688" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "Salvelinus malma specificepithet:malma genus:Salvelinus hastissue:1" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "111755" ; Times: 1
+	Query: "null" ; Times: 122
+	Query: "35625" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "recordedby:bohne" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "104041" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "88945" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "George Carroll" ; Times: 2
+	Query: "specificepithet:tennesseensis genus:Phoxinus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "SD 2961" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "osm 350" ; Times: 1
+	Query: "gbifdatasetid:813b435e-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "92685" ; Times: 2
+	Query: "61905" ; Times: 2
+	Query: "illinois Menard County" ; Times: 1
+	Query: "bivalve" ; Times: 1
+	Query: "Salvelinus malma hastissue:1" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "Raw" ; Times: 2
+	Query: "V 1128" ; Times: 1
+	Query: "specificepithet:melanostomus genus:Neogobius stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "92542" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1416 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "specificepithet:tennesseensis genus:Phoxinus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+
+
+End of report.
