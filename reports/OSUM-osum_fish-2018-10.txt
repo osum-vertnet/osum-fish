@@ -1,0 +1,154 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 1147
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 77
+	Country: Sweden ; Times: 4
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-27 ; Times: 8
+	Date: 2018-10-24 ; Times: 9
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 20
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 18
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Hubbard institutioncode:OSUM" ; Times: 1
+	Query: "Syngnathus affinis mappable:1" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "Acipenser transmontanus mappable:1" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Nichols institutioncode:OSUM" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "San Luis Potosí fishes" ; Times: 1
+	Query: "Lactophrys quadricornis mappable:1" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "Lewis institutioncode:OSUM" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "(38429)" ; Times: 1
+	Query: "Gage institutioncode:OSUM" ; Times: 1
+	Query: "nice institutioncode:OSUM" ; Times: 6
+	Query: "Apeltes quadracus Chesapeake Bay" ; Times: 1
+	Query: "Anchoa mitchilli Chesapeake Bay" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "catalognumber:9690 hastissue:1" ; Times: 1
+	Query: "catalognumber:101641" ; Times: 1
+	Query: "King institutioncode:OSUM" ; Times: 1
+	Query: "hybrid striped bass" ; Times: 1
+	Query: "110998" ; Times: 2
+	Query: "Brevoortia tyrannus Chesapeake Bay" ; Times: 3
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Hyde institutioncode:OSUM" ; Times: 1
+	Query: "Scharrer institutioncode:OSUM" ; Times: 2
+	Query: "32087" ; Times: 1
+	Query: "Thompson institutioncode:OSUM" ; Times: 2
+	Query: "catalognumber:9666 hastissue:1" ; Times: 1
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "Richardson institutioncode:OSUM" ; Times: 1
+	Query: "Oncorhynchus clarkii lewisi mappable:1" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "Young institutioncode:OSUM" ; Times: 1
+	Query: "Menidia menidia Chesapeake Bay" ; Times: 4
+	Query: "Mitchell institutioncode:OSUM" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Oncorhynchus mykiss gairdneri mappable:1" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Stein institutioncode:OSUM" ; Times: 1
+	Query: "san luis potosi fishes" ; Times: 2
+	Query: "catalognumber:9630 hastissue:1" ; Times: 1
+	Query: "Wilcox institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Grant institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "sagamore" ; Times: 1
+	Query: "Syngnathus affinis" ; Times: 1
+	Query: "Stone institutioncode:OSUM" ; Times: 1
+	Query: "pigeon minnesota" ; Times: 1
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "Saint Clair County MO" ; Times: 1
+	Query: "specificepithet:hubbsi institutioncode:OSUM" ; Times: 1
+	Query: "Nice institutioncode:OSUM" ; Times: 6
+	Query: "R. A. Young institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:9663 hastissue:1" ; Times: 1
+	Query: "lengthtype:standard length hassex:1 haslength:1 crab" ; Times: 1
+	Query: "stein institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1300 download events in this period)
+Total number of records downloaded: 16104
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "san luis potosi fishes" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
