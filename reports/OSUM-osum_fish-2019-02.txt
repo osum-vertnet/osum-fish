@@ -1,0 +1,123 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 264
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 25
+	Country: United States ; Times: 33
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 22
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 4
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 10
+	Date: 2019-02-21 ; Times: 8
+	Date: 2019-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "79677" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "94324" ; Times: 1
+	Query: "etheostoma pike county kentucky" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "32402" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 5
+	Query: "85469" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "catalognumber:116891" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "30254" ; Times: 1
+	Query: "catalognumber:116885" ; Times: 2
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "107820" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "90935" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "94076" ; Times: 1
+	Query: "maryland osum" ; Times: 4
+	Query: "73020" ; Times: 1
+	Query: "Zoogoneticus" ; Times: 1
+	Query: "grass carp" ; Times: 1
+	Query: "Coregonus artedi hastissue:1" ; Times: 1
+	Query: "osum maryland" ; Times: 2
+	Query: "hellbender" ; Times: 2
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "Coregonus artedi basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 2
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "etheostoma mccreary county kentucky" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "Eugerres plumieri mappable:1" ; Times: 5
+	Query: "32115" ; Times: 1
+	Query: "92705" ; Times: 1
+	Query: "103886" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1227 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "chrosomus neogaeus" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+	Query: "Heterandria" ; Times: 1
+
+
+End of report.
