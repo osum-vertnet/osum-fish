@@ -1,0 +1,172 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 441
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 29
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Norway ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 6
+	Country: Sweden ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 45
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 13
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-02 ; Times: 8
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-20 ; Times: 15
+	Date: 2019-04-26 ; Times: 10
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 12
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 6
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "catalognumber:36262 institutioncode:OSUM" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "catalognumber:94231 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "catalognumber:175 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "202194" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "catalognumber:12885 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "catalognumber:74231 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Cottus paulus" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "catalognumber:15854 institutioncode:OSUM" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "catalognumber:4755 institutioncode:OSUM" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "gbifdatasetid:813b435e-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:12688 institutioncode:OSUM" ; Times: 1
+	Query: "Nyc institutioncode:OSUM" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "208083" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Potamogeton crispus mappable:1" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "catalognumber:15849 institutioncode:OSUM" ; Times: 1
+	Query: "Zostera marina mappable:1" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "locality:black slough" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "catalognumber:7852 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:5811 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:62811 institutioncode:OSUM" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Zostera marina" ; Times: 1
+	Query: "209157" ; Times: 1
+	Query: "catalognumber:7198 institutioncode:OSUM" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "Black buck" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "catalognumber:112201 institutioncode:OSUM" ; Times: 2
+	Query: "maculatum stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Oncorhynchus mykiss gilberti" ; Times: 1
+	Query: "catalognumber:110060 institutioncode:OSUM" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "collections for range maps" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "33026" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1263 download events in this period)
+Total number of records downloaded: 351
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Turkey ; Times: 1
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "maculatum stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+	Query: "Oncorhynchus mykiss gilberti" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+
+
+End of report.
