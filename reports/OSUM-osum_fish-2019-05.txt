@@ -1,0 +1,148 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 211
+Number of records retrieved in searches: 1126
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 102
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 50
+	Country: United Kingdom ; Times: 15
+	Country: Belgium ; Times: 5
+	Country: New Zealand ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-25 ; Times: 21
+	Date: 2019-05-24 ; Times: 5
+	Date: 2019-05-27 ; Times: 6
+	Date: 2019-05-26 ; Times: 16
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 13
+	Date: 2019-05-23 ; Times: 14
+	Date: 2019-05-22 ; Times: 10
+	Date: 2019-05-29 ; Times: 4
+	Date: 2019-05-28 ; Times: 8
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 49
+	Date: 2019-05-17 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "31985" ; Times: 1
+	Query: "Catostomus lahontan stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "Breviceps hasmass:1" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "Abramis brama" ; Times: 9
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "Missouri Dunklin county" ; Times: 1
+	Query: "Lutjanus analis mappable:1" ; Times: 11
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 11
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Bull Trout" ; Times: 24
+	Query: "39672" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Indiana&#34; year &gt;= 1986 year &lt;= 1986 hastissue:1" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "oppossum" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 1
+	Query: "91493" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 30
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Indiana&#34; year = 1986 hastissue:1" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 11
+	Query: "34130" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 3
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "scientificname:(Catostomus commersonii OR Catostomus commersoni OR Catostomus commersonnii) country:United States mappable:1" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Oncorhynchus gilberti" ; Times: 2
+	Query: "202492" ; Times: 1
+	Query: "Diplectrum formosum mappable:1" ; Times: 2
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Dugan" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "ctenogobius hastissue:1" ; Times: 1
+	Query: "Eucyclogobius newberryi" ; Times: 2
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "Crystallaria cincotta" ; Times: 2
+	Query: "Barbonymus schwanenfeldii" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "Cottus paulus" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Mustelus canis mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 940 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus lahontan stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 1
+
+
+End of report.
