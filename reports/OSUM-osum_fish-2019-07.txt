@@ -1,0 +1,160 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 1684
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 94
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 28
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-10 ; Times: 15
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 9
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-09 ; Times: 24
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-04 ; Times: 6
+	Date: 2019-07-07 ; Times: 5
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "scientificname:(Elassoma boehlkei) country:United States mappable:1" ; Times: 1
+	Query: "107251" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "specificepithet:variatum genus:Etheostoma stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "scientificname:(Percina macrocephala) country:United States mappable:1" ; Times: 1
+	Query: "genus:Thoburnia specificepithet:rhothoeca" ; Times: 1
+	Query: "catalognumber:2718 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "elf" ; Times: 2
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Noturus trautmani institutioncode:OSUM" ; Times: 2
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 2
+	Query: "Moxostoma lacerum" ; Times: 4
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "Prosopium williamsoni stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "catalognumber:1847 institutioncode:OSUM" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "specificepithet:claviformis genus:erimyzon hastissue:1" ; Times: 2
+	Query: "86476" ; Times: 1
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "scientificname:(Noturus furiosus) country:United States mappable:1" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "V institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:243 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Ichthyomyzon specificepithet:bdellium" ; Times: 1
+	Query: "(Ansonia) hastissue:1" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "Noturus trautmani" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "scientificname:(Notropis perpallidus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "scientificname:(Notropis amplamala) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "osum maryland" ; Times: 4
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "vntype:specimen genus:oncorhynchus lengthinmm &gt;= 200 lengthinmm &lt;= 10000 haslength:1" ; Times: 1
+	Query: "Moxostoma lacerum institutioncode:OSUM" ; Times: 1
+	Query: "42-480" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Skiffia francesae institutioncode:OSUM" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "scientificname:(Etheostoma brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "Percina rex mappable:1" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "scientificname:(Percina williamsi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "Ansonia hastissue:1" ; Times: 2
+	Query: "69829" ; Times: 1
+	Query: "Bull Trout" ; Times: 2
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 1246
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Prosopium williamsoni stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
