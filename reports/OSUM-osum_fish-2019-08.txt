@@ -1,0 +1,126 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 40
+	Country: Israel ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 12
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-26 ; Times: 10
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 7
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-19 ; Times: 6
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "Ambloplites constellatus" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "NOTROPIS OZARCANUS" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "115365" ; Times: 1
+	Query: "etheostoma cragini" ; Times: 1
+	Query: "chirostoma jordani" ; Times: 3
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "Phractocephalus hemioliopterus" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Bull Trout" ; Times: 4
+	Query: "dolly varden" ; Times: 2
+	Query: "county:&#34;kendall&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "100361" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "115366" ; Times: 3
+	Query: "Salvelinus confluentus" ; Times: 3
+	Query: "UroLOPHUS jamaicensis" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Gallus gallus haslength:1" ; Times: 1
+	Query: "106348" ; Times: 1
+	Query: "catalognumber:71658 institutioncode:OSUM" ; Times: 1
+	Query: "117046" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "108252" ; Times: 1
+	Query: "Myosotis" ; Times: 1
+	Query: "Preservation of Fishes" ; Times: 1
+	Query: "OSUM 2407" ; Times: 2
+	Query: "oncorhynchus clarkii henshawi" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "71277" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "genus:Aphredoderus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "82270" ; Times: 1
+	Query: "pajaro genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "28575" ; Times: 3
+	Query: "28574" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "Bacteria" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Potos" ; Times: 1
+
+
+End of report.
