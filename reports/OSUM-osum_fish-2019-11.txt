@@ -1,0 +1,154 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 81
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 6
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-05 ; Times: 7
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 6
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 14
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 8
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 27
+	Date: 2019-11-14 ; Times: 8
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "205107" ; Times: 1
+	Query: "pajaro genus:gasterosteus" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "18819" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "jolliff" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "207571" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "west bloomfield" ; Times: 1
+	Query: "Clupea harengus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Hellbender" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "Mike Scott" ; Times: 2
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "24573" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "204408" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "20532" ; Times: 2
+	Query: "25328" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "207436" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "brycon hastissue:1" ; Times: 1
+	Query: "106469" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 3
+	Query: "43136" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "10918" ; Times: 1
+	Query: "203751" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;Ohio&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "schell creek" ; Times: 2
+	Query: "207567" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1367 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
