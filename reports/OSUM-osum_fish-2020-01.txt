@@ -1,0 +1,163 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 2163
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 48
+	Country: United States ; Times: 88
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 14
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-03 ; Times: 8
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 18
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-05 ; Times: 21
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 17
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 8
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 19
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-19 ; Times: 4
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "109191" ; Times: 1
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 13
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "field musuem" ; Times: 1
+	Query: "m-36276" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "111121" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "OSU 10455" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 3
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 2
+	Query: "scientificname:Chirostoma chapalae mappable:1" ; Times: 1
+	Query: "specificepithet:pardalis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 5
+	Query: "116798" ; Times: 1
+	Query: "116799" ; Times: 1
+	Query: "207097" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 3
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "scientificname:Menidia menidia mappable:1" ; Times: 8
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "namaycush Salvelinus" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 3
+	Query: "arapaima gigas" ; Times: 3
+	Query: "Arapaima gigas" ; Times: 4
+	Query: "Menidia menidia" ; Times: 2
+	Query: "Diplectrum formosum mappable:1" ; Times: 3
+	Query: "Bryozoa" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "specificepithet:gyrinus genus:noturus hastissue:1" ; Times: 1
+	Query: "genus:Salvelinus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "scientificname:Acanthurus randalli mappable:1" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "110205" ; Times: 1
+	Query: "Lutjanus analis mappable:1" ; Times: 3
+	Query: "Trachinotus goodei mappable:1" ; Times: 2
+	Query: "48995" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "h.e. nichols" ; Times: 2
+	Query: "297681" ; Times: 2
+	Query: "206605" ; Times: 1
+	Query: "206685" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "102707" ; Times: 1
+	Query: "204019" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "scientificname:Chirostoma jordani mappable:1" ; Times: 1
+	Query: "scientificname:Chirostoma riojai mappable:1" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "Eleotris amblyopsis mappable:1" ; Times: 3
+	Query: "specificepithet:gigas genus:arapaima" ; Times: 1
+	Query: "206276" ; Times: 1
+	Query: "Scophthalmus aquosus mappable:1" ; Times: 3
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 4
+	Query: "54378" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1" ; Times: 6
+	Query: "12356" ; Times: 1
+	Query: "scientificname:Menidia beryllina mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:sucetta genus:erimyzon year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "Paralichthys dentatus mappable:1" ; Times: 3
+	Query: "205936" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "county:&#34;boyd&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "100760" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "97174" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1584 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sucetta genus:erimyzon year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Monterey&#34;" ; Times: 1
+
+
+End of report.
