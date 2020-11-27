@@ -1,0 +1,185 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1663
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 118
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 29
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-03 ; Times: 34
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-09 ; Times: 5
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 8
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-27 ; Times: 12
+	Date: 2020-02-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "scientificname:(Elassoma boehlkei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 2
+	Query: "87329" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:peltastes genus:Lepomis institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "209785" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "scientificname:(Etheostoma brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "gbifdatasetid:813b435e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "204122" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "scientificname:(Gambusia affinis OR Gambusia patruelis OR Gambusia affinis affinis OR Gambusia holbrooki) country:United States mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "scientificname:(Noturus furiosus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:fontinalis genus:Salvelinus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percina williamsi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis perpallidus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis amplamala) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "scientificname:(Catostomus commersonii OR Catostomus commersoni OR Catostomus commersonnii) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 3
+	Query: "207191" ; Times: 1
+	Query: "opossum washington" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "genus:Rhamdia institutioncode:OSUM" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Nice institutioncode:OSUM" ; Times: 3
+	Query: "207567" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Pimephales tenellus) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1023 download events in this period)
+Total number of records downloaded: 397
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "opossum washington" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
