@@ -1,0 +1,162 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 435
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Ireland ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 91
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 15
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 7
+	Date: 2020-05-06 ; Times: 26
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-15 ; Times: 8
+	Date: 2020-05-16 ; Times: 10
+	Date: 2020-05-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "scientificname:(Etheostoma tetrazonum) country:United States mappable:1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1524 institutioncode:OSUM" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "catalognumber:1277 institutioncode:OSUM" ; Times: 2
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "205957" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1393 institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:(Percina aurora) country:United States mappable:1" ; Times: 1
+	Query: "205960" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "205966" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "gbifdatasetid:813b435e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "103059" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "297681" ; Times: 2
+	Query: "205970" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "V-1132" ; Times: 3
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "297765" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1623 institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:2076 institutioncode:OSUM" ; Times: 1
+	Query: "297682" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:2176 institutioncode:OSUM" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1745 institutioncode:OSUM" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1845 institutioncode:OSUM" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "scientificname:(Etheostoma raneyi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus euryzonus) country:United States mappable:1" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1649 institutioncode:OSUM" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "catalognumber:1014 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 2
+	Query: "49138" ; Times: 1
+	Query: "295744" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "296769" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1060 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "scientificname:(Noturus hildebrandi) country:United States mappable:1" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1639 institutioncode:OSUM" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 2401
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+
+
+End of report.
