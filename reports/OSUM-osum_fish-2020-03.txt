@@ -1,0 +1,206 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 329
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 138
+	Country: Australia ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Slovakia ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 23
+	Date: 2020-03-18 ; Times: 8
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 5
+	Date: 2020-03-23 ; Times: 8
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-11 ; Times: 5
+	Date: 2020-03-28 ; Times: 13
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 11
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-09 ; Times: 13
+	Date: 2020-03-22 ; Times: 9
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 11
+	Date: 2020-03-05 ; Times: 8
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-03 ; Times: 14
+	Date: 2020-03-02 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "47738" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "2029000" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "scientificname:(Etheostoma tennesseense) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "scientificname:(Etheostoma orientale) country:United States mappable:1" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "30505" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "107116" ; Times: 1
+	Query: "107114" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "(salamander) hassex:1 haslength:1" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "Quadrula quadrula mappable:1" ; Times: 1
+	Query: "2028997" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "(46173)" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 5
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "113681" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "208604" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "macrhybopsis gelida" ; Times: 2
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "97922" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34;" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "(208551)" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "76842" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "76847" ; Times: 1
+	Query: "Dave Long" ; Times: 2
+	Query: "Chapalichthys" ; Times: 3
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "scientificname:(Etheostoma atripinne OR Etheostoma simoterum atripinne) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "(208330)" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 1
+	Query: "297033" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "sheephead fish" ; Times: 2
+	Query: "(49093)" ; Times: 2
+	Query: "67524" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "Macrhybopsis meeki" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "112121" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "(208331)" ; Times: 1
+	Query: "(208553)" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "111297" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "112331" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "2028996" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "(208554)" ; Times: 1
+	Query: "297006" ; Times: 1
+	Query: "(208332)" ; Times: 1
+	Query: "Macrhybopsis australis" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "41248" ; Times: 1
+	Query: "(208552)" ; Times: 1
+	Query: "Chapalichthys pardalis" ; Times: 1
+	Query: "88872" ; Times: 1
+	Query: "106816" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 853 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "101701" ; Times: 1
+	Query: "the great lakes" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+
+
+End of report.
