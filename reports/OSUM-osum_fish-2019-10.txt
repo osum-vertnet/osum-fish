@@ -1,0 +1,145 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 609
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 41
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 16
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 8
+	Date: 2019-10-22 ; Times: 4
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 4
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 17
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 9
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 14
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Moxostoma hubbsi mappable:1" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Etheostoma rafinesquei" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Hellbender" ; Times: 3
+	Query: "10109" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "asper Cottus" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "70530" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "specificepithet:coerulea county:&#34;Siskiyou&#34;" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "71340" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "lizzard" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "96152" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "county:&#34;Preble&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Chirostoma jordani" ; Times: 1
+	Query: "Gammarus" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "28676" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Sonora stramineus" ; Times: 2
+
+
+End of report.
