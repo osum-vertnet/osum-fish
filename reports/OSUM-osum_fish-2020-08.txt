@@ -1,0 +1,163 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 36
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 27
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 12
+	Country: United Kingdom ; Times: 14
+	Country: Sweden ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 10
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 6
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 5
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-07 ; Times: 13
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Pollachius virens" ; Times: 2
+	Query: "115232" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "OSUM 559" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Anableps dowei Honduras" ; Times: 1
+	Query: "stugeon" ; Times: 1
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "M-92283" ; Times: 1
+	Query: "Carroll Adams" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "71376" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "107626" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "bantam" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 7
+	Query: "Arapaima" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "OSUM-R 559" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "hellbender" ; Times: 3
+	Query: "19285" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "M-92725" ; Times: 1
+	Query: "munchen" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "vntype:specimen specificepithet:elongatus genus:Cycleptus hastissue:1" ; Times: 2
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "107643" ; Times: 2
+	Query: "specificepithet:asper genus:Cottus stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "28881" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "107797" ; Times: 2
+	Query: "Clupea harengus" ; Times: 5
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "Anableps dowei HOnduras" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "107783" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Noturus taylori" ; Times: 1
+	Query: "107787" ; Times: 1
+	Query: "107662" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "107593" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "M-98247" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "Anableps dowei" ; Times: 1
+	Query: "M-95968" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "101570" ; Times: 1
+	Query: "71606" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
