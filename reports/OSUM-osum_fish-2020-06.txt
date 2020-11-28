@@ -1,0 +1,139 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 1640
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 7
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 252
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-18 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 90
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-15 ; Times: 44
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-11 ; Times: 87
+	Date: 2020-06-17 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 1
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "etheostoma vulneratum" ; Times: 2
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "100399" ; Times: 2
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "family:batrachoididae hastissue:1" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Salmo salar" ; Times: 9
+	Query: "100499" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "82441" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "catalognumber:2021 institutioncode:OSUM" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Phractocephalus hemioliopterus" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Cottus beldingii" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Etheostoma vulneratum" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Cottus ricei" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "Abramis brama" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 474 download events in this period)
+Total number of records downloaded: 1332
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "carassius gibelio" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+
+
+End of report.
