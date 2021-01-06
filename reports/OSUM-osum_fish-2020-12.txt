@@ -1,0 +1,204 @@
+Report for Institution Code OSUM, Resource osum_fish
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 1818
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 33
+	Country: United Kingdom ; Times: 56
+	Country: Denmark ; Times: 4
+	Country: Bolivia ; Times: 1
+	Country: United States ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 14
+	Date: 2020-12-31 ; Times: 3
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 17
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-04 ; Times: 22
+	Date: 2020-12-03 ; Times: 21
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 11
+	Date: 2020-12-25 ; Times: 11
+	Date: 2020-12-24 ; Times: 12
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-29 ; Times: 4
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 12
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-16 ; Times: 9
+	Date: 2020-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Proterorhinus semilunaris" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "76468" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "100576" ; Times: 1
+	Query: "scientificname:Carcharhinus plumbeus" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "scientificname:Platichthys flesus" ; Times: 1
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "Notropis telescopus" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "87609" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "William Han" ; Times: 2
+	Query: "55866" ; Times: 1
+	Query: "Amatitlania nigrofasciata" ; Times: 1
+	Query: "scientificname:Myxine glutinosa" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "Oregonichthys crameri" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "113294" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "113296" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "scientificname:Pollachius pollachius" ; Times: 1
+	Query: "Abramis brama" ; Times: 2
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 2
+	Query: "113295" ; Times: 1
+	Query: "Edward Arnold" ; Times: 3
+	Query: "Margariscus margarita" ; Times: 2
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "82425" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Lythrurus umbratilus" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 3
+	Query: "scientificname:Boops boops" ; Times: 4
+	Query: "110151" ; Times: 3
+	Query: "Novumbra hubbsi" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 2
+	Query: "Carassius gibelio" ; Times: 2
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "scientificname:Merluccius merluccius" ; Times: 1
+	Query: "106323" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "91533" ; Times: 2
+	Query: "scientificname:Limanda limanda" ; Times: 1
+	Query: "204415" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "mallards" ; Times: 1
+	Query: "scientificname:Scomber scombrus" ; Times: 2
+	Query: "24209" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "26573" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 1
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 1
+	Query: "Barbonymus schwanenfeldii" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "catalognumber:3177 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "Poecilia formosa" ; Times: 1
+	Query: "Chrosomus neogaeus" ; Times: 2
+	Query: "91527" ; Times: 1
+	Query: "82259" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "scientificname:Dentex dentex" ; Times: 2
+	Query: "114232" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 1
+	Query: "Carassius carassius" ; Times: 2
+	Query: "vntype:specimen specificepithet:anomalum genus:Campostoma basisofrecord:PreservedSpecimen hastissue:1 distance(location,geopoint(36.87419165388594,-76.01134055613463))&lt;794223.6473760164" ; Times: 1
+	Query: "110052" ; Times: 1
+	Query: "arapaima" ; Times: 4
+	Query: "Merluccius bilinearis" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "204414" ; Times: 2
+	Query: "35966" ; Times: 1
+	Query: "91485" ; Times: 1
+	Query: "Ctenogobius shufeldti" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 1
+	Query: "scientificname:Lophius piscatorius" ; Times: 2
+	Query: "catalognumber:110151" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "Noturus taylori" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 2
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 2
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "91897" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "111101" ; Times: 1
+	Query: "108489" ; Times: 1
+	Query: "Phractocephalus hemioliopterus" ; Times: 2
+	Query: "295744" ; Times: 3
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 705 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "mallards" ; Times: 1
+
+
+End of report.
